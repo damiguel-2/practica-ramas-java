@@ -8,6 +8,7 @@ System.out.println("==============================");
 System.out.println("Hola, " + nombre + "!");
 System.out.println("Bienvenido/a a la práctica de Git.");
 System.out.println("==============================");
+System.out.println("Esta línea es en la rama remota");
 
 }
 public static int sumar(int a, int b) {
